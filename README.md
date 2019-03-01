@@ -9,7 +9,9 @@
     float: none!important;" src="Linear Algebra/Logo/linalg.png"
     alt ="publication-logo"/>  
 
-Explaining the concepts of Linear Algebra, from Basics and Advanced. There will also be articles about their application in Computer Science. 
+<a href="https://medium.com/linear-algebra" target="_blank">hello</a>
+
+Explaining the concepts of Linear Algebra, from Basics to Advanced. There will also be articles about their application in Computer Science. 
 
 ### Basics
 
