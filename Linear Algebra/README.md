@@ -13,9 +13,9 @@ Explaining the concepts of Linear Algebra, from Basics to Advanced. There will a
 ### PART 1   : [Linear Equation of two variables and Matrices](https://medium.com/linear-algebra/part-1-linear-equation-of-two-variables-and-matrices-d8de21eb8d51)  
 ### PART 2   : [Operations on Matrices](https://medium.com/linear-algebra/part-2-operations-on-matrices-3caab542aebd)  
 ### PART 3   : [Types of Matrices, Diagonal and Transpose](https://medium.com/linear-algebra/part-3-types-of-matrices-diagonal-and-transpose-151418a47c06)  
-### PART 4A  : [List, Arrays and Matrices in Python3](https://medium.com/linear-algebra/part-4-list-arrays-and-matrices-in-python-3-6ee47b3a3d23) 
+### PART 4A  : [List, Arrays, and Matrices in Python3](https://medium.com/linear-algebra/part-4-list-arrays-and-matrices-in-python-3-6ee47b3a3d23) 
 [Code](lists-arrays-matrices/example.ipynb)
-### PART 4B  : [Tensors, Scalars and Vectors](https://medium.com/linear-algebra/part-4b-tensors-scalars-and-vectors-68cf6c1f2be)  
+### PART 4B  : [Tensors, Scalars, and Vectors](https://medium.com/linear-algebra/part-4b-tensors-scalars-and-vectors-68cf6c1f2be)  
  
 ### PART 5   : [Row picture and Column Picture](https://medium.com/linear-algebra/part-5-row-picture-and-column-picture-899e6d834564)  
 ### PART 6   : [Gaussian Elimination](https://medium.com/linear-algebra/part-6-gaussian-elimination-b1ad4a279a74)  

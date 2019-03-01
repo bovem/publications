@@ -17,7 +17,7 @@ Explaining the concepts of Linear Algebra, from Basics to Advanced. There will a
 * Linear Equation of two variables and Matrices
 * Operations on Matrices
 * Types of Matrices, Diagonal and Transpose
-* Tensors, Scalars and Vectors
+* Tensors, Scalars, and Vectors
 * Gaussian Elimination
 * Inverses and Gauss Jordan Elimination
 * Vectors
@@ -28,13 +28,13 @@ Explaining the concepts of Linear Algebra, from Basics to Advanced. There will a
 
 * Row picture and Column Picture
 * Linear Independence, Rank of Matrix and Span
-* Vector Spaces and Sub spaces
-* Example of Sub spaces
+* Vector Spaces and Subspaces
+* Example of Subspaces
 * Row space, Column Space and Null Space
 
 ### Applications
 
-* List, Arrays and Matrices in Python3
+* List, Arrays, and Matrices in Python3
 
 ## [Complete Calculus](https://medium.com/complete-calculus)   
 
@@ -61,7 +61,7 @@ Explaining concepts of Calculus.
     float: none!important;" src="PyFinance/Logo/pyfin.png"
     alt ="publication-logo"/>  
 
-Sharing articles about application of Python programming language in Financial data modeling.
+Sharing articles about the applications of Python programming language in Financial data modeling.
 
-* Why Python is best choice for financial data modeling in 2019
+* Why Python is the best choice for financial data modeling in 2019
 * Deploy Jupyter Notebook on AWS EC2 instance
