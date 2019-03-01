@@ -9,7 +9,7 @@
 
 Sharing articles about application of Python programming language in Financial data modeling.
 
-### [Why Python is best choice for financial data modeling in 2019](https://medium.com/pyfinance/why-python-is-best-choice-for-financial-data-modeling-in-2019-c0d0d1858c45)  
+### [Why Python is best choice for financial data modelling in 2019](https://medium.com/pyfinance/why-python-is-best-choice-for-financial-data-modeling-in-2019-c0d0d1858c45)  
 Python is a simple and beautifully-syntaxed programming language, this article gives an overview of why will it be the centre of financial data modelling in the coming time.  
     
 ### [Deploy Jupyter Notebook on AWS EC2 instance](https://medium.com/pyfinance/deploy-jupyter-notebook-on-aws-ec2-instance-a6cd304ae744)  
