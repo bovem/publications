@@ -27,6 +27,7 @@ Explaining the concepts of Linear Algebra, from Basics to Advanced. There will a
 ### PART 12  : [Vectors](https://medium.com/linear-algebra/part-12-vectors-a99364499121)  
 ### PART 13  : [Vector Components](https://medium.com/linear-algebra/part-13-vector-components-b78a61be3817)  
 ### PART 14  : [Dot and Hadamard Product](https://medium.com/linear-algebra/part-14-dot-and-hadamard-product-b7e0723b9133)  
+### PART 15  : [Orthogonality and four fundamental subspaces](https://medium.com/linear-algebra/part-15-orthogonality-and-four-fundamental-subspaces-7e97effe886c)
 
 
 
