@@ -9,7 +9,7 @@
 
 Articles about Data Science and Statistics.
 
-### [Correlation]()  
+### [Correlation](https://medium.com/science-of-data/correlation-ad1c70b0e76d)  
 Correlation is the statistical measure of strength of relationship between two variables of a dataset.
     
 [Code](correlation/)
