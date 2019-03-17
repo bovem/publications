@@ -43,7 +43,7 @@ Explaining the concepts of Linear Algebra, from Basics to Advanced. There will a
      max-width: 60%;
     height: auto;
     margin: auto;
-    float: none!important;" src="Complete Calculus/Logo/cal.png"
+    float: none!important;" src="Complete Calculus/Logo/cal2.png"
     alt ="publication-logo"/>  
 
 Explaining concepts of Calculus.

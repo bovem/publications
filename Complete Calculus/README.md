@@ -4,7 +4,7 @@
      max-width: 60%;
     height: auto;
     margin: auto;
-    float: none!important;" src="Logo/cal.png"
+    float: none!important;" src="Logo/cal2.png"
     alt ="publication-logo"/>  
 
 Explaining concepts of Calculus.
