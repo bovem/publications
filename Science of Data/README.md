@@ -7,9 +7,9 @@
     float: none!important;" src="Logo/pub_logo.png"
     alt ="publication-logo"/>  
 
-Articles about Data Science and Statistics
+Articles about Data Science and Statistics.
 
 ### [Correlation]()  
-Python is a simple and beautifully-syntaxed programming language, this article gives an overview of why will it be the centre of financial data modelling in the coming time.  
+Correlation is the statistical measure of strength of relationship between two variables of a dataset.
     
 [Code](correlation/)
