@@ -4,7 +4,7 @@
      max-width: 60%;
     height: auto;
     margin: auto;
-    float: none!important;" src="Logo/pyfin.png"
+    float: none!important;" src="Logo/pyfin2.png"
     alt ="publication-logo"/>  
 
 Sharing articles about the applications of Python programming language in Financial data modeling.
