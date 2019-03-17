@@ -65,4 +65,17 @@ Explaining concepts of Calculus.
 Sharing articles about the applications of Python programming language in Financial data modeling.
 
 * Why Python is the best choice for financial data modeling in 2019
-* Deploy Jupyter Notebook on AWS EC2 instance
+* Deploy Jupyter Notebook on AWS EC2 instance  
+
+## [Science of Data](https://medium.com/science-of-data)
+
+<img style=" display: block;
+     max-width: 60%;
+    height: auto;
+    margin: auto;
+    float: none!important;" src="Science of Data/Logo/pub_logo.png"
+    alt ="publication-logo"/>  
+
+Articles about Data Science and Statistics
+
+* Correlation
