@@ -31,7 +31,8 @@ Explaining the concepts of Linear Algebra, from Basics to Advanced. There will a
 * Vector Spaces and Subspaces
 * Example of Subspaces
 * Row space, Column Space and Null Space  
-* Orthogonality and four fundamental Subspaces
+* Orthogonality and four fundamental Subspaces  
+* Dimension and Basis
 
 ### Applications
 
