@@ -79,4 +79,9 @@ Sharing articles about the applications of Python programming language in Financ
 
 Articles about Data Science and Statistics
 
-* Correlation
+### Statistics  
+* Correlation  
+
+### TensorFlow
+* Introduction to TensorFlow  
+* Graphs and Constants
