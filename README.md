@@ -34,6 +34,7 @@ Explaining the concepts of Linear Algebra, from Basics to Advanced. There will a
 * Orthogonality and four fundamental Subspaces  
 * Dimension and Basis  
 * Projections  
+* Norms  
 
 ### Applications
 

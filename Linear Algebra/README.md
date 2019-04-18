@@ -30,6 +30,7 @@ Explaining the concepts of Linear Algebra, from Basics to Advanced. There will a
 ### PART 15  : [Orthogonality and four fundamental subspaces](https://medium.com/linear-algebra/part-15-orthogonality-and-four-fundamental-subspaces-7e97effe886c)  
 ### PART 16  : [Dimension and Basis](https://medium.com/linear-algebra/part-16-dimension-and-basis-46efe6f1fa56)  
 ### PART 17  : [Projections](https://medium.com/linear-algebra/part-17-projections-122aac21b07c)  
+### PART 18  : [Norms](https://medium.com/linear-algebra/https-medium-com-linear-algebra-norms-30a8b3739bb)  
 
 
 
