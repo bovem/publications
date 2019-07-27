@@ -31,6 +31,10 @@ Explaining the concepts of Linear Algebra, from Basics to Advanced. There will a
 ### PART 16  : [Dimension and Basis](https://medium.com/linear-algebra/part-16-dimension-and-basis-46efe6f1fa56)  
 ### PART 17  : [Projections](https://medium.com/linear-algebra/part-17-projections-122aac21b07c)  
 ### PART 18  : [Norms](https://medium.com/linear-algebra/https-medium-com-linear-algebra-norms-30a8b3739bb)  
+### PART 19  : [Minors and Cofactors](https://medium.com/linear-algebra/part-19-minors-and-cofactors-6841706efe5f)  
+### PART 20  : [Determinants](https://medium.com/linear-algebra/part-20-determinants-e4b2fbcce883)  
+### PART 21  : [Properties of Determinants](https://medium.com/linear-algebra/part-21-properties-of-determinants-1af8a231fd2b)  
+
 
 
 

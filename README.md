@@ -22,7 +22,10 @@ Explaining the concepts of Linear Algebra, from Basics to Advanced. There will a
 * Inverses and Gauss Jordan Elimination
 * Vectors
 * Vector Components
-* Dot and Hadamard Product
+* Dot and Hadamard Product  
+* Minors and Cofactors  
+* Determinants  
+* Properties of Determinants  
 
 ### Advanced
 
