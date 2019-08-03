@@ -34,6 +34,7 @@ Explaining the concepts of Linear Algebra, from Basics to Advanced. There will a
 ### PART 19  : [Minors and Cofactors](https://medium.com/linear-algebra/part-19-minors-and-cofactors-6841706efe5f)  
 ### PART 20  : [Determinants](https://medium.com/linear-algebra/part-20-determinants-e4b2fbcce883)  
 ### PART 21  : [Properties of Determinants](https://medium.com/linear-algebra/part-21-properties-of-determinants-1af8a231fd2b)  
+### PART 22  : [Eigenvalues and Eigenvectors]https://medium.com/linear-algebra/part-22-eigenvalues-and-eigenvectors-da633b57c1ee)  
 
 
 

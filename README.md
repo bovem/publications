@@ -38,6 +38,7 @@ Explaining the concepts of Linear Algebra, from Basics to Advanced. There will a
 * Dimension and Basis  
 * Projections  
 * Norms  
+* Eigenvalues and Eigenvectors  
 
 ### Applications
 
