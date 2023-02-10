@@ -1,5 +1,7 @@
 # Medium Publications
 
+## Now publishing on [bovem.in](https://www.bovem.in/)
+
 ## [Linear Algebra](https://medium.com/linear-algebra)
 
 <img style=" display: block;
