@@ -1,6 +1,6 @@
 # Medium Publications
 
-## Now publishing on [bovem.in](https://www.bovem.in/)
+## Now publishing on [avni.sh](https://www.avni.sh/)
 
 ## [Linear Algebra](https://medium.com/linear-algebra)
 
